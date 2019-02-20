@@ -1,19 +1,6 @@
 SOURCE_MD=$(wildcard *.md)
 PROCESSED_MD=$(patsubst %.md, build/%.md, $(SOURCE_MD))
-
-all: fiches-moto-permis-a2.epub
-
-build/%.md : %.md build
-	./tools/pre-process-for-pandoc.sh $< $@
-
-build:
-	mkdir build
-
-clean:
-	rm -rf build/
-
-fiches-moto-permis-a2.epub: $(PROCESSED_MD)
-	pandoc -o $@ title.txt build/README.md \
+ORDERED_FILES=build/README.md \
 		build/fiche-1.md \
 		build/fiche-2.md \
 		build/fiche-3.md \
@@ -28,3 +15,28 @@ fiches-moto-permis-a2.epub: $(PROCESSED_MD)
 		build/fiche-12.md \
 		build/fiches-interrogations.md \
 		build/verifications-techniques.md
+
+OUT=fiches-moto-permis-a2.epub fiches-moto-permis-a2.asciidoc fiches-moto-permis-a2.html
+
+all: $(OUT)
+
+build/%.md : %.md build
+	./tools/pre-process-for-pandoc.sh $< $@
+
+build:
+	mkdir build
+
+fiches-moto-permis-a2.epub: $(PROCESSED_MD)
+	pandoc -o $@ title.txt $(ORDERED_FILES)
+
+fiches-moto-permis-a2.asciidoc: $(PROCESSED_MD)
+	pandoc -t asciidoc -o $@ title.txt $(ORDERED_FILES)
+
+fiches-moto-permis-a2.html: fiches-moto-permis-a2.asciidoc
+	asciidoc $<
+
+fiches-moto-permis-a2.pdf: fiches-moto-permis-a2.asciidoc
+	asciidoctor-pdf $<
+
+clean:
+	rm -rf build/ $(OUT)
