@@ -16,27 +16,33 @@ ORDERED_FILES=build/README.md \
 		build/fiches-interrogations.md \
 		build/verifications-techniques.md
 
-OUT=fiches-moto-permis-a2.epub fiches-moto-permis-a2.asciidoc fiches-moto-permis-a2.html
+OUT=out/fiches-moto-permis-a2.epub out/fiches-moto-permis-a2.asciidoc out/fiches-moto-permis-a2.html
 
 all: $(OUT)
 
 build/%.md : %.md build
 	./tools/pre-process-for-pandoc.sh $< $@
 
+out/fiches-moto-permis-a2.epub: $(PROCESSED_MD) out
+	pandoc -o $@ title.txt $(ORDERED_FILES)
+
+out/fiches-moto-permis-a2.asciidoc: $(PROCESSED_MD) out
+	pandoc -t asciidoc -o $@ title.txt $(ORDERED_FILES)
+
+out/fiches-moto-permis-a2.html: out/fiches-moto-permis-a2.asciidoc out
+	asciidoc -o $@ $<
+
+out/fiches-moto-permis-a2.pdf: out/fiches-moto-permis-a2.asciidoc out
+	asciidoctor-pdf -o $@ $<
+
 build:
 	mkdir build
 
-fiches-moto-permis-a2.epub: $(PROCESSED_MD)
-	pandoc -o $@ title.txt $(ORDERED_FILES)
-
-fiches-moto-permis-a2.asciidoc: $(PROCESSED_MD)
-	pandoc -t asciidoc -o $@ title.txt $(ORDERED_FILES)
-
-fiches-moto-permis-a2.html: fiches-moto-permis-a2.asciidoc
-	asciidoc $<
-
-fiches-moto-permis-a2.pdf: fiches-moto-permis-a2.asciidoc
-	asciidoctor-pdf $<
+out:
+	mkdir out
 
 clean:
-	rm -rf build/ $(OUT)
+	rm -rf build/
+
+distclean: clean
+	rm -rf out/
