@@ -1,0 +1,11 @@
+---
+title:
+
+- type: main
+  text: Fiches Moto
+- type: subtitle
+  text: Permis A2
+creator:
+- role: author
+  text: Journal Officiel - mars 2014
+...

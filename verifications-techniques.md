@@ -1,8 +1,10 @@
+# Vérifications techniques
+
 Ces fiches ne détaillent pas ce que vous devez faire pendant l'examen. Chacune des actions est dépendante de la moto sur laquelle vous faites votre apprentissage.
 
-# Fiche 1
+## Fiche 1
 
-## Commandes
+### Commandes
 
 1. Mise en marche du moteur
 
@@ -14,7 +16,7 @@ Ces fiches ne détaillent pas ce que vous devez faire pendant l'examen. Chacune 
     - Si la motocyclette utilisée est à embrayage hydraulique : il indique le point de contrôle du niveau.
     - Accélérateur : le candidat vérifie la bonne rotation de la poignée y compris à la décélération (retour de la poignée).
 
-## Éléments techniques
+### Éléments techniques
 
 1. Niveau d’huile moteur
 
@@ -29,7 +31,7 @@ Ces fiches ne détaillent pas ce que vous devez faire pendant l'examen. Chacune 
     - A cardan : il indique le point de contrôle du niveau d’huile.
     - A courroie : il contrôle l’état de la courroie.
 
-## Éclairage et accessoires de sécurité
+### Éclairage et accessoires de sécurité
 
 1. Eclairage avant
 
@@ -39,14 +41,13 @@ Ces fiches ne détaillent pas ce que vous devez faire pendant l'examen. Chacune 
 
     Le candidat vérifie le bon état et le bon fonctionnement des indicateurs de changement de direction.
 
-# Fiche 2
+## Fiche 2
 
-## Commandes
+### Commandes
 
 1. Direction
 
     Le candidat explique comment il contrôle l'absence de jeu dans la direction sans effectuer l'opération : il faut délester la roue avant et faire tourner le guidon de gauche à droite. Il ne doit pas y avoir de point de résistance.
-
 
 2. Commandes de frein
 
@@ -54,7 +55,7 @@ Ces fiches ne détaillent pas ce que vous devez faire pendant l'examen. Chacune 
     - Arrière : Commande mécanique : il contrôle l'usure à l'aide du repère prévu à cet effet.
     - Arrière : Commande hydraulique : il contrôle le niveau.
 
-## Éléments techniques
+### Éléments techniques
 
 1. Pneumatique, avant ou arrière
 
@@ -66,7 +67,7 @@ Ces fiches ne détaillent pas ce que vous devez faire pendant l'examen. Chacune 
     - A l'avant dans le cas d'une suspension pression d'air : l'absence de fuite au niveau des joints à lèvres (ou de leur protection). il indique la valve servant à l'évacuation ou au complément de pression d'air. Il doit indiquer la valeur de la pression admissible (voir guide d'utilisation).
     - A l'arrière : il indique où s'effectue le réglage.
 
-## Éclairage et accessoires de sécurité
+### Éclairage et accessoires de sécurité
 
 
 1. Éclairage arrière et feu stop
