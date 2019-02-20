@@ -15,6 +15,7 @@ Chaque constructeur et manufacturier édite un tableau de pression et établit s
 Le surgonflage accélère l'usure du pneumatique et défavorise la tenue de route sur chaussée détrempée.
 
 Un sous-gonflage important :
+
 - déstabilise le motocycle, quelle que soit la vitesse de circulation.
 - entraîne des risques de dérapages plus importants.
 
@@ -51,11 +52,13 @@ Pour ces vérifications, il faut utiliser la notice du constructeur afin de ne r
 On peut demander conseil à son garagiste pour s'assurer des bons délais de vérifications (par exemple, le liquide de frein est généralement à remplacer au moins tous les deux ans).
 
 Rouler avec une carence d'huile moteur peut occasionner un "serrage moteur" et causer d'importants dommages à une moto et surtout entraîner un danger réel :
+
 - chute, percussion par l'arrière, projections de fluides brûlants, etc.
 
 ## Les modifications techniques
 
 Il est interdit de modifier sans autorisation :
+
 - le dispositif d'échappement.
 - le type de transmission.
 - la cylindrée, le taux de compression et la puissance.

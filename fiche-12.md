@@ -13,6 +13,7 @@ Pour vaincre cet effet (en virage par exemple), il faut exercer sur le guidon un
 Le contre-braquage, ou braquage inverse, est une technique qui permet de négocier correctement un virage à allure soutenue ou même d'éviter un obstacle soudain (uniquement à vitesse élevée) : il s'agit d'amorcer le changement de direction par une bascule de la moto vers l'intérieur du virage à prendre. On provoque cette bascule par une brève action sur le guidon.
 
 L'action consiste à pousser sur le guidon ainsi :
+
 - pour un virage à gauche, pousser sur la partie gauche.
 - pour un virage à droite, pousser sur la partie droite.
 
@@ -40,6 +41,7 @@ A 50 km/h, il est possible de faire un évitement, à partir de 70 km/h, sa mise
 ### Visibilité :
 
 Avant d'aborder un virage, il faut avoir évalué :
+
 - l'importance de la courbe (à droite ou à gauche).
 - l'état et la largeur de la chaussée.
 - la présence d'autres usagers.
@@ -47,12 +49,14 @@ Avant d'aborder un virage, il faut avoir évalué :
 ### Vitesse :
 
 Il faut adapter sa vitesse en fonction :
+
 - de la visibilité.
 - du rayon de la courbe.
 - de l'état du sol.
 - du chargement de la moto.
 
 ### Trajectoire :
+
 - adapter sa vitesse (décélération et rétrogradage avant le virage).
 - pour la découverte du virage, placer sa machine à droite pour un virage à gauche, près de l'axe médian pour un virage à droite.
 - plonger vers l'intérieur de la courbe (point de corde).

@@ -51,6 +51,7 @@ Le bon état technique de la machine est essentiel. Une vérification régulièr
 L'absence de protection et la présence d'obstacles fixes sont les principaux facteurs qui contribuent à accentuer la gravité des accidents impliquant des motocyclistes.
 
 Un équipement de protection n'évite pas l'accident mais permet toujours d'en diminuer les conséquences:
+
 - Il peut sauver une vie.
 - Il peut transformer un blessé grave en blessé léger, et un blessé léger en personne indemne.
 - Le sac à dos pouvant entraîner de graves blessures à la colonne, il faut lui préférer la valise ou le top-case.

@@ -52,6 +52,7 @@ Deux groupes et cinq profils répartis à peu près équitablement de 20% chacun
 - Exemple d'infractions commises : excès de vitesse.
 
 #### 2. Les transgressifs (deux-roues utilitaires) :
+
 - Usage : utilitaire
 - Moto de petite cylindrée et scooters.
 - Représentation : un moyen de transport, deux-roues = gain de temps.

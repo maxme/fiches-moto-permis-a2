@@ -5,6 +5,7 @@
 Certains signes laissent présager une situation dangereuse. Les détecter, c'est anticiper le danger et pouvoir l'éviter.
 
 De manière générale il faut :
+
 - se méfier de chaque endroit où il risque d'y avoir un conflit d'usagers (carrefours, intersections, passages, sorties de chemin, carrefours à sens giratoire...).
 - rester vigilant à l'égard des véhicules qui nous entourent (devant, derrière, à gauche, à droite), d'où l'importance des rétroviseurs.
 

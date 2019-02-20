@@ -13,6 +13,7 @@ Les collisions sont dues essentiellement au fait que les autres usagers (les aut
 La nature même d'une moto, son faible gabarit notamment et sa forte capacité d'accélération sont des caractéristiques d'ensemble qui ne favorisent pas une bonne détection.
 
 Dans ce type d'accident, il ressort principalement de la part des motocyclistes :
+
 - une faible expérience de la conduite.
 - un attachement trop rigide au statut prioritaire.
 - une vitesse inadaptée à la situation.
@@ -31,6 +32,7 @@ Les plus caractéristiques :
 En dehors des accidents liés à l'alcool ou à l'usage de stupéfiants il s'agit principalement d'un mauvais contrôle du véhicule en situation de négociation de trajectoire et de la mauvaise évaluation des difficultés routières rencontrées (travaux, virage mal apprécié...).
 
 Dans ce type d'accident il ressort de la part des motocyclistes :
+
 - une faible expérience de la conduite et du véhicule.
 - une vitesse trop élevée pour gérer une difficulté imprévue.
 - l'adoption d'une conduite à risque (ludique, compétitive, test d'un véhicule ou transgression caractérisée).

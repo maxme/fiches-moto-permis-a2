@@ -5,14 +5,17 @@
 Obligatoire pour le motocycliste et son passager, il doit être homologué (avec obligation de la présence des dispositifs réfléchissants), coiffé et attaché avec une jugulaire ou verrouillé.
 
 Il doit être conforme :
+
 - soit à la norme européenne : une étiquette blanche. De plus en plus fréquente (lettre E suivie de l'indication du pays ayant homologué le casque et du numéro d'homologation)
 - soit à la norme française : une étiquette verte NF. Cette norme tend à disparaître.
 
 Quel que soit le type de casque, 20% sont éjectés en cas d'accident grave, et cela pour deux causes principales :
+
 - une taille du casque mal adaptée à la tête de l'usager.
 - une jugulaire non attachée ou une attache trop lâche ce qui revient au même en cas de choc.
 
 Il convient de :
+
 - ne jamais l'acheter d'occasion.
 - le choisir parfaitement ajusté à sa tête, après avoir mis le casque sans en serrer la jugulaire, il ne doit pas bouger ni compresser la tête.
 - le fixer avec soin, la sangle devant toujours être correctement attachée et serrée.
@@ -30,6 +33,7 @@ Seul un vêtement adéquat peut contribuer à éviter fractures, contusions et a
 Toute tenue légère en moto est à proscrire. Les doublures en matières synthétiques de type nylon sont à éviter absolument. En cas de glissade, elles fondent sur la peau entraînant alors de très graves blessures par brûlure, difficiles à traiter, avec des conséquences parfois irréparables pour les tissus.
 
 L'idéal :
+
 - un blouson certifié équipement de protection individuelle (EPI), renforcé au niveau des coudes et des épaules, certains sont aussi équipés d'une protection dorsale, d'un airbag, d'autres sont imperméabilisés et équipés d'une doublure amovible matelassée....
 - du cuir ou des textiles anti-abrasion pour protéger les zones du corps les plus exposées aux brûlures en cas de chute.
 

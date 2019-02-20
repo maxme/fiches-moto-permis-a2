@@ -7,6 +7,7 @@ Note: dans le texte officiel, les chiffres clés datent de 2011, ie. "A kilomét
 ## Vérifications techniques
 
 L'expert interroge le candidat en choisissant un sujet de vérification pour chacun de ces thèmes :
+
 - les commandes,
 - les éléments techniques,
 - l'éclairage et les accessoires de sécurité.
@@ -16,6 +17,7 @@ L'expert interroge le candidat en choisissant un sujet de vérification pour cha
 ## Fiches pour interrogations orales
 
 Fiches de révisions complètes avec les points principaux, le résumé des chiffres.
+
 - [Fiche 1 : Le risque routier moto/comportement en présence d'un accident](fiche-1.md)
 - [Fiche 2 : Les accidents les plus caractéristiques](fiche-2.md)
 - [Fiche 3 : Les facteurs de risque à moto](fiche-3.md)

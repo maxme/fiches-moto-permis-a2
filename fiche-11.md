@@ -7,6 +7,7 @@ Exprimée verbalement en kilomètres à l'heure, il est plus intéressant de la 
 Pour calculer la distance parcourue en une seconde, il suffit de multiplier par 3 le chiffre des dizaines de la vitesse indiquée.
 
 Exemple :
+
 - à 50 km/h : 5 × 3 ≈ 15 m/s.
 - à 90 km/h : 9 × 3 ≈ 27 m/s.
 
@@ -15,6 +16,7 @@ Exemple :
 C'est le temps qui s'écoule entre la perception de l'obstacle et l'action sur les freins (environ 1 seconde) au cours duquel la moto n'est pas freinée et continue à avancer.
 
 Ce temps peut être plus important si le motocycliste est :
+
 - fatigué ou malade.
 - sous l'effet de l'alcool, de la drogue ou de certains médicaments.
 - distrait ou soucieux.
@@ -42,6 +44,7 @@ La distance de freinage dépend de l'état de la route, des pneumatiques, de l'�
 Cette distance est proportionnelle au carré de la vitesse.
 
 Route sèche :
+
 - à 50 km/h ≈ 15 m.
 - à 90 km/h ≈ 50 m.
 - à 130 km/h ≈ 110 m.
@@ -55,6 +58,7 @@ La distance d'arrêt est égale à la distance parcourue pendant le temps de ré
 On peut effectuer un calcul approximatif de la distance d'arrêt en multipliant le chiffre des dizaines de la vitesse indiquée par lui-même :
 
 Exemple :
+
 - à 90 km/h, on obtient : 9 × 9 ≈ 81 m de distance d'arrêt.
 - à 130 km/h, on obtient : 13 × 13 ≈ 169 m de distance d'arrêt.
 

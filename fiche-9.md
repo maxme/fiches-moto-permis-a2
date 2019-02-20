@@ -3,6 +3,7 @@
 ## L'alcool
 
 Les accidents moto imputables à l'alcool en 2011 (Source ONISR) :
+
 - 1 accident mortel sur 4.
 - 151 décès.
 - Ils ont lieu 1 fois sur 2 la nuit.
@@ -16,6 +17,7 @@ Chaque verre (norme débit de boisson) consommé fait monter le taux d'alcool de
 Ce taux peut augmenter en fonction de l'état de santé, du degré de fatigue, du stress ou des caractéristiques physiques de la personne.
 
 Le taux d'alcool maximal est atteint :
+
 - 1/2 heure après absorption à jeun.
 - 1 heure après absorption au cours d'un repas.
 - L'alcoolémie baisse en moyenne de 0,10 g à 0,15 g d'alcool par litre de sang en 1 heure.
@@ -26,10 +28,12 @@ Le taux d'alcool maximal est atteint :
 L'alcool agit sur le cerveau et sur tout le système nerveux, ce qui provoque des conséquences graves pour le conducteur.
 
 Les conditions physiques sont amoindries :
+
 - champ visuel réduit, vision trouble, inattention, sommeil.
 - perte de mémoire, perte des apprentissages, diminution des réflexes.
 
 Le comportement est modifié :
+
 - diminution de la peur et prise de risque exagérée.
 - agressivité.
 - euphorie.
@@ -37,6 +41,7 @@ Le comportement est modifié :
 ## Le cannabis
 
 Les effets :
+
 - capacité à contrôler la trajectoire diminuée.
 - temps de réaction allongé.
 - déficit des mécanismes d'attention et de vigilance.
@@ -59,9 +64,11 @@ Certains médicaments sont incompatibles avec la consommation d'alcool et entra�
 ### L'alcool :
 
 Taux compris entre 0,5 et 0,8 g (contravention) :
+
 - amende de 135 euros et retrait de 6 points sur le permis de conduire.
 
 Taux égal ou supérieur à 0,8 g (délit) :
+
 - retrait de 6 points sur le permis de conduire.
 - amende pouvant aller jusqu'à 4 500 euros.
 - immobilisation du véhicule.
@@ -73,6 +80,7 @@ Taux égal ou supérieur à 0,8 g (délit) :
 Des dépistages d'absorption de substances ou plantes classées comme stupéfiants sont réalisées par les forces de police et de gendarmerie.
 
 En cas de dépistage positif et confirmé :
+
 - retrait de 6 points sur le permis de conduire.
 - amende pouvant aller jusqu'à 4 500 euros.
 - immobilisation du véhicule.

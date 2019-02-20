@@ -21,6 +21,7 @@ La garantie de responsabilité civile s'applique à toute personne autorisée à
 Le motocycliste est libre de les souscrire ou non en plus de l'assurance obligatoire.
 
 Elles offrent les garanties suivantes :
+
 - la garantie "dommage collisions" ou "tiers-collisions" indemnise les dégâts causés au véhicule de l'assuré même s'il est responsable, en cas de collision avec un autre usager identifié.
 - la garantie dommage par accident indemnise les dégâts causés au véhicule de l'assuré, même s'il n'y a pas eu de collision. Cette garantie est souvent appelée "tous risques".
 - la garantie individuelle accident couvre l'assuré lui-même en cas de blessure, l'assurance verse une certaine somme. en cas de décès elle verse une somme d'argent aux héritiers.
@@ -32,6 +33,7 @@ Elles offrent les garanties suivantes :
 L'absence d'assurance constitue une infraction passible, notamment, d'une amende et d'un emprisonnement.
 
 En cas d'absence d'assurance, le motocycliste responsable d'un accident devra payer tous les dommages causés :
+
 - aux autres véhicules.
 - au domaine public (poteaux, plantations, etc.).
 - au domaine privé.
