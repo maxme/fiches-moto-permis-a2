@@ -22,8 +22,7 @@ Ces fiches ne détaillent pas ce que vous devez faire pendant l'examen. Chacune 
 
     - Le candidat explique la façon de procéder et indique à l’expert le point de contrôle.
     - Véhicule à carter humide : la moto doit être droite ou sur la béquille centrale (ne pas exiger cette position).
-    - Véhicule à carter sec : il faut faire tourner le moteur au ralenti 2 minutes environ et contrôler immédiatement dès
-    l’arrêt du moteur.
+    - Véhicule à carter sec : il faut faire tourner le moteur au ralenti 2 minutes environ et contrôler immédiatement dès l’arrêt du moteur.
 
 2. Transmission
 
