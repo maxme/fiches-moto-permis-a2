@@ -72,13 +72,13 @@
 
 ## Fiche 11 : Vitesse et freinage
 
-- Vitesse en mètres par seconde ?
-- Le temps de réaction ?
-- L’énergie cinétique ?
-- La distance de freinage ?
-- Les distances d’arrêt et la vitesse ?
-- Freinage et réaction de la moto ?
-- Freinage et dérapage ?
+- Vitesse en mètres par seconde.
+- Le temps de réaction.
+- L’énergie cinétique.
+- La distance de freinage.
+- Les distances d’arrêt et la vitesse.
+- Freinage et réaction de la moto.
+- Freinage et dérapage.
 
 ## Fiche 12 : Stabilité et trajectoire
 
