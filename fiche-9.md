@@ -88,4 +88,3 @@ En cas de dépistage positif et confirmé :
 - peine de prison (jusqu'à deux ans).
 
 Les sanctions sont aggravées lorsque cette infraction est couplée avec un taux d'alcool prohibé : les peines sont portées à trois ans d'emprisonnement et 9 000 euros d'amende.
-

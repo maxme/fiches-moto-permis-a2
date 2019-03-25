@@ -31,12 +31,8 @@ Fiches de révisions complètes avec les points principaux, le résumé des chif
 - [Fiche 11 : Vitesse et freinage](fiche-11.md)
 - [Fiche 12 : Stabilité et trajectoire](fiche-12.md)
 
-
 ## Fiches d'interrogation examen
 
 Les points principaux pour chaque fiche, lors de l'interrogation orale, vous devez développer autour de chaque point :
 
 [Les 12 fiches d'interrogations](fiches-interrogations.md)
-
-
-

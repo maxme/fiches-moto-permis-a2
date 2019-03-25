@@ -40,6 +40,7 @@ En cas d'absence d'assurance, le motocycliste responsable d'un accident devra pa
 - aux victimes (blessés ou tués), les soins, hospitalisation, traitements, rentes..., ces frais peuvent représenter des sommes très importantes.
 
 ## Les cas de refus de payer par l'assureur
+
 - Dommage volontairement causé par l'assuré.
 - Le motocycliste est sous l'emprise d'un état alcoolique.
 - Le motocycliste n'a pas l'âge requis.

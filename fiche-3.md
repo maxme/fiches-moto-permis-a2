@@ -3,11 +3,13 @@
 ## Les facteurs de risque
 
 ### L'alcool, les drogues
+
 - Près d'un motocycliste sur 4 impliqués dans un accident mortel a un taux d'alcoolémie positif.
 - L'usage du cannabis seul multiplie le risque d'être responsable d'un accident mortel par 1,8.
 - L'usage combiné du cannabis et de l'alcool multiplie ce risque par 14.
 
 ### La vitesse excessive
+
 - Plus la vitesse est élevée, plus il est difficile d'éviter un obstacle ou de faire face à un imprévu et plus les conséquences de la chute ou de la collision sont importantes.
 - L'angle de vision passe de 110° à l'arrêt à 30° à une vitesse de 130 km/h.
 - A grande vitesse le regard se porte uniquement dans l'axe de la voie de circulation.

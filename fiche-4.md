@@ -12,7 +12,7 @@ Ces différences viennent du fait que chaque motocycliste a sa propre perception
 
 ## Les profils types de motocyclistes
 
-Différentes études (*) ont permis d'établir le profil des motocyclistes et les risques auxquels ils s'exposent respectivement.
+Différentes études (\*) ont permis d'établir le profil des motocyclistes et les risques auxquels ils s'exposent respectivement.
 
 Cela peut relever soit d'une prise de risque délibéré soit d'une méconnaissance ou inconscience du risque.
 
@@ -21,6 +21,7 @@ Deux groupes et cinq profils répartis à peu près équitablement de 20% chacun
 ### Premier groupe : la conduite prudente
 
 #### 1. Les modérés
+
 - Usage : moyen de transport secondaire, utilisé les week-ends et en vacances.
 - Motos "custom".
 - Représentation : un loisir.
@@ -28,6 +29,7 @@ Deux groupes et cinq profils répartis à peu près équitablement de 20% chacun
 - Pas d'infraction particulière.
 
 #### 2. Les stressés
+
 - Usage : uniquement utilitaire, facilité des déplacements.
 - Ils ont une faible expérience de la conduite et une préférence pour les scooters.
 - Représentation : un moyen de transport.
@@ -35,6 +37,7 @@ Deux groupes et cinq profils répartis à peu près équitablement de 20% chacun
 - Exemple d'infractions commises : circulation sur des voies réservées.
 
 #### 3. Les sereins
+
 - Usage : régulier.
 - Représentation : évasion et respect des règles
 - Sentiment de responsabilité : le deux-roues est perçu à la fois comme pratique et source de plaisir, la conduite est responsable.
@@ -44,6 +47,7 @@ Deux groupes et cinq profils répartis à peu près équitablement de 20% chacun
 ### Second groupe : la conduite à risque
 
 #### 1. Les sportifs
+
 - Usage : passionné, kilométrage annuel élevé.
 - Moto de grosse cylindrée, catégorie sportive ou roadster.
 - Représentation : sport, évasion, communauté.
@@ -60,4 +64,4 @@ Deux groupes et cinq profils répartis à peu près équitablement de 20% chacun
 - Ne mesurent pas les conséquences de leur comportement.
 - Infractions multiples pour gagner du temps : sens interdits, arrêt au stop non marqué, circulation sur les trottoirs, remontées de file...
 
-(*) Source des études : GEMA et IFSTTAR.
+(\*) Source des études : GEMA et IFSTTAR.
