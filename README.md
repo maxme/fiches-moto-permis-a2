@@ -2,7 +2,7 @@
 
 Après avoir cherché quelques temps une source fiable sur internet, j'ai fini par prendre [l'arrêté publié au journal officiel](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025803553) (et sa [version pdf avec les schémas](http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20140411&numTexte=11&pageDebut=06585&pageFin=06617)) et d'en faire quelques fiches récapitulatives.
 
-Note: dans le texte officiel, les chiffres clés datent de 2011, ie. "A kilométrage égal un conducteur de moto a 20 fois plus de risque d'être tué qu'un automobiliste". Vous trouverez peut être des chiffres plus récent en révisant sur livret papier ("A kilométrage égal un conducteur de moto a **23 fois** plus de risque d'être tué qu'un automobiliste"), ils restent très similaires, pas importants lors de l'examen.
+Note: dans le texte officiel, les chiffres clés datent de 2011, ie. "A kilométrage égal un conducteur de moto a 20 fois plus de risque d'être tué qu'un automobiliste". Vous trouverez peut être des chiffres plus récent en révisant sur livret papier ("A kilométrage égal un conducteur de moto a **23 fois** plus de risque d'être tué qu'un automobiliste"), ils restent très similaires, pas important lors de l'examen.
 
 ## Vérifications techniques
 
@@ -36,3 +36,7 @@ Fiches de révisions complètes avec les points principaux, le résumé des chif
 Les points principaux pour chaque fiche, lors de l'interrogation orale, vous devez développer autour de chaque point :
 
 [Les 12 fiches d'interrogations](fiches-interrogations.md)
+
+## Flashcards pour Anki
+
+[Anki](https://apps.ankiweb.net/) est une application permettant d'apprendre et de réviser des cartes-mémoires grâce à une méthode de répétition espacée. Une version des fiches moto pour le permis A2 est disponible sur AnkiWeb: https://ankiweb.net/shared/info/1156061502
