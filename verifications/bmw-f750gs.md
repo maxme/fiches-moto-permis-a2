@@ -8,14 +8,14 @@
 
     - Le candidat met en marche le moteur:
       1. Vérifier que le coupe circuit est ON.
-      2. Tourner la clé pour mettre le contact, les témoins d'alerte doivent s'allumer puis s'éteindre (sauf ABS et ASC qui s'éteindront après l'auto-diagnostique, lorsque la moto aura atteint 5km/h).
-      3. Appuyer sur le bouton de démarreur ou tourner la clé dans le sens horaire.
+      2. Tourner la clé pour mettre le contact, les témoins d'alerte doivent s'allumer puis s'éteindre, sauf ABS et ASC (Automatic Stability Control aussi appelé Traction Control) qui s'éteindront après l'auto-diagnostique, lorsque la moto aura atteint 5km/h.
+      3. Vérifier que le voyant neutre est allumé, et appuyer sur le bouton de démarreur.
     - Le candidat arrête le moteur à l'aide du coupe-circuit (arrêt d'urgence).
 
 2. Commandes d'embrayage et d'accélération
 
     - La F750 GS est équipée d'un embrayage mécanique : le candidat vérifie que le câble est non effiloché et que le réglage de la garde est correct (5 mm environ).
-    - Accélérateur : le candidat vérifie la bonne rotation de la poignée y compris à la décélération (retour de la poignée). Note: c'est une poignée d'accélération électronique.
+    - Accélérateur : le candidat vérifie la bonne rotation de la poignée y compris à la décélération (retour de la poignée). Note: c'est une poignée d'accélération électronique, il n'y a pas de garde latérale.
 
 ### Éléments techniques
 
@@ -26,7 +26,7 @@
 
 2. Transmission
 
-    - Transmission à chaîne sur la F750 GS : la moto doit être sur un terrain plat et bien droite. Le candidat contrôle la tension de la chaîne en poussant la partie bas de la chaîne de haut en bas. La mesure doit correspondre aux préconisationsdu constructeur: entre 30mm et 40mm (c'est noté sur le bras oscillant de la F750 GS). Il indique aussi que la chaîne doit être bien graissée.
+    - Transmission à chaîne sur la F750 GS : la moto doit être sur un terrain plat et bien droite. Le candidat contrôle la tension de la chaîne en poussant la partie bas de la chaîne de haut en bas. La mesure doit correspondre aux préconisations du constructeur: entre 30mm et 40mm (c'est noté sur le bras oscillant de la F750 GS). Il indique aussi que la chaîne doit être bien graissée.
 
 ### Éclairage et accessoires de sécurité
 
