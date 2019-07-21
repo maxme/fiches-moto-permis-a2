@@ -39,4 +39,4 @@ Les points principaux pour chaque fiche, lors de l'interrogation orale, vous dev
 
 ## Flashcards pour Anki
 
-[Anki](https://apps.ankiweb.net/) est une application permettant d'apprendre et de réviser des cartes-mémoires grâce à une méthode de répétition espacée. Une version des fiches moto pour le permis A2 est disponible sur AnkiWeb: https://ankiweb.net/shared/info/1156061502
+[Anki](https://apps.ankiweb.net/) est une application permettant d'apprendre et de réviser des cartes-mémoires grâce à une méthode de répétition espacée. Une version des fiches moto pour le permis A2 est disponible sur AnkiWeb: https://ankiweb.net/shared/info/1756098596
